@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "56EFQ265X4.ru.docsystems.intranet.tn",
+        "paths": ["/", "/*"]
+      },
+      {
+        "appID": "56EFQ265X4.ru.docsystems.intranettn",
+        "paths": ["/", "/*"]
+      },
+      {
+        "appID": "7FB2HR657L.ru.docsystems.intranettn",
+        "paths": ["/", "/*"]
+      },
+      {
+        "appID": "64J4B3A2LZ.ru.docsystems.intranettn",
+        "paths": ["/", "/*"]
+      }
+    ]
+  }
+}
